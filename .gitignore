@@ -43,7 +43,6 @@ android/app/src/main/java/com/expensify/chat/generated/
 *~
 
 # Vscode
-.vscode
 
 # node.js
 #
@@ -82,7 +81,6 @@ android/app/android-fastlane-json-key.json
 /vendor/bundle/
 
 # Local DEV config
-/.env
 
 # Storybook build files
 storybook-static
@@ -143,3 +141,4 @@ docs/.bundle
 
 # Output of react compiler healthcheck dev script
 react-compiler-output.txt
+config.bat
